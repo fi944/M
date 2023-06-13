@@ -12,7 +12,7 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "",
+            "value": "28990289",
             "required": true
         },
         "APP_HASH": {
